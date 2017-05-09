@@ -1,14 +1,14 @@
-#include <QApplication>
+п»ї#include <QApplication>
 #include <QPushButton>
- 
+В 
 int main(int argc, char *argv[ ]) 
 {
 QApplication app(argc, argv);
- 
+В 
 QPushButton button("Hello, World!");
 button.resize(200, 60);
 button.show( );
- пишу код в новой ветке пойнтер
-пишу код в мейне для конфликта
+В РїРёС€Сѓ РєРѕРґ РІ РЅРѕРІРѕР№ РІРµС‚РєРµ РїРѕР№РЅС‚РµСЂ
+РїРёС€Сѓ РєРѕРґ РІ РјРµР№РЅРµ РґР»СЏ РєРѕРЅС„Р»РёРєС‚Р°
 return app.exec( );
 }
