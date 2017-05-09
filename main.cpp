@@ -9,6 +9,10 @@ QPushButton button("Hello, World!");
 button.resize(200, 60);
 button.show( );
  пишу код в новой ветке пойнтер
+<<<<<<< HEAD
 пишу код в новой ветке пойнтер опять уже после мерджа2
+======
+пишу код в мейне для конфликта
+>>>>>>> master
 return app.exec( );
 }
